@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+#content {
+    height: 3900px;
+    background-image: url(../images/bg.jpg);
+}
+
+#kundehistorier {
+    width: 100px;
+    margin-left: 900px;
+    padding-top: 60px;
+}
+
+
+.icons {
+    float: left;
+}
+
+#facebook {
+
+    width: 50px;
+    height: 50px;
+    margin-left: 700px;
+    margin-top: 3600px;
+    float: left;
+
+}
+
+#insta {
+
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    margin-top: 3600px;
+        float: left;
+}
+
+#youtube {
+
+    width: 50px;
+    height: 50px;
+    margin-left: 830px;
+    margin-top: 3600px;
+}
