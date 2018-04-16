@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+#content {
+    height: 2090px;
+    background-image: url(../images/magasin.jpg);
+}
+
+#logo {
+    width: 100px;
+    margin-left: 300px;
+    padding-top: 60px;
+}
